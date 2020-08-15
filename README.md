@@ -1,2 +1,2 @@
-# mithran-s_blog.github.io
+https://balamithran.github.io/blog/
 new programming blog
